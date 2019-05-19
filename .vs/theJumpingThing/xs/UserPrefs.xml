@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{20A582F7-4EE0-0A4B-FE90-B40314984AFE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/GameMananger.cs">
+    <Files>
+      <File FileName="Assets/scripts/winningScene.cs" Line="8" Column="5" />
+      <File FileName="Assets/scripts/level2.cs" Line="11" Column="17" />
+      <File FileName="Assets/scripts/level1.cs" Line="24" Column="12" />
+      <File FileName="Assets/scripts/movement.cs" Line="40" Column="12" />
+      <File FileName="Assets/scripts/onDeath.cs" Line="18" Column="6" />
+      <File FileName="Assets/scripts/cameraBehavior.cs" Line="18" Column="6" />
+      <File FileName="Assets/scripts/restart.cs" Line="29" Column="10" />
+      <File FileName="Assets/scripts/playButtonScript.cs" Line="17" Column="5" />
+      <File FileName="Assets/scripts/mainMenu.cs" Line="19" Column="12" />
+      <File FileName="Assets/scripts/exitScript.cs" Line="21" Column="6" />
+      <File FileName="Assets/scripts/instructionsScript.cs" Line="5" Column="1" />
+      <File FileName="Assets/scripts/GameMananger.cs" Line="10" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
